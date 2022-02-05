@@ -10,11 +10,236 @@ Each section and recording in Part II is available as an individual file, as wel
 
 Complete Part II text and audio ([ZIP]({{< baseurl >}}/resources/part_ii))
 
-| CONTENTS | FILES |
-| --- | --- |
-|  {{< br >}}{{< br >}} _Characters 4_ {{< br >}}{{< br >}} 4.0 Review  {{< br >}}4.1 Set 1, with notes  {{< br >}}4.2 Set 2, with notes  {{< br >}}4.3 Set 3, with notes  {{< br >}}4.4 Set 4, with notes  {{< br >}}4.5 Traditional vs. simplified characters  {{< br >}}4.6 名片 Míngpiàn  {{< br >}}4.7 On the street #4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lesson ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_char04)) {{< br >}}{{< br >}} Stroke Order ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_stroke04)) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} _Unit 5_ {{< br >}}{{< br >}} 5.1 Tone contrasts  {{< br >}}5.2 Or  {{< br >}}5.3 At the beginning of class  {{< br >}}5.4 Food (2)  {{< br >}}5.5 Expanding the V + _de_ construction  {{< br >}}5.6 Talking to children  {{< br >}}5.7 Music and musicians  {{< br >}}5.8 Verbs of cognition  {{< br >}}5.9 Destination  {{< br >}}5.10 Purpose  {{< br >}}5.11 In the past  {{< br >}}5.12 And  {{< br >}}5.13 Sports and scores  {{< br >}}5.14 Dialogue: Who won?  {{< br >}}5.15 Pronunciation  {{< br >}}5.16 Summary  {{< br >}}5.17 Rhymes and rhythms {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Chapter ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_unit05)) {{< br >}}{{< br >}} 5.1 Tone contrasts ([MP3]({{< baseurl >}}/resources/5-1)) {{< br >}}{{< br >}} 5.4.1 Ordering in a restaurant ([MP3]({{< baseurl >}}/resources/5-4-1)) {{< br >}}{{< br >}} 5.6 Talking to children ([MP3]({{< baseurl >}}/resources/5-6)) {{< br >}}{{< br >}} 5.7.2 Musical preferences ([MP3]({{< baseurl >}}/resources/5-7-2)) {{< br >}}{{< br >}} 5.14 Who won? ([MP3]({{< baseurl >}}/resources/5-14)) {{< br >}}{{< br >}} 5.15 Pronunciation ([MP3]({{< baseurl >}}/resources/5-15)) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} _Characters 5_ {{< br >}}{{< br >}} 5.0 Review  {{< br >}}5.1 Set 1, with notes  {{< br >}}5.2 Set 2, with notes  {{< br >}}5.3 Set 3, with notes  {{< br >}}5.4 Set 4, with notes  {{< br >}}5.5 Traditional characters  {{< br >}}5.6 Formal numbers  {{< br >}}5.7 The five elements  {{< br >}}5.8 On the street #5 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lesson ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_char05)) {{< br >}}{{< br >}} Stroke Order ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_stroke05)) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} _Unit 6_ {{< br >}}{{< br >}} 6.1 Opposites  {{< br >}}6.2 Describing people  {{< br >}}6.3 Verb + _guò_ 'have you ever...'  {{< br >}}6.4 When, before, after  {{< br >}}6.5 When?  {{< br >}}6.6 Places of work  {{< br >}}6.7 Directions  {{< br >}}6.8 The _shì-de_ construction  {{< br >}}6.9 Dialogue: Where are you from?  {{< br >}}6.10 Calling Michael Jordan  {{< br >}}6.11 Food (3)  {{< br >}}6.12 Highlights  {{< br >}}6.13 Rhymes and rhythms  {{< br >}}Appendix: Chinese historical periods {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Chapter ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_unit06)) {{< br >}}{{< br >}} 6.3.5 Dialogues ([MP3]({{< baseurl >}}/resources/6-3-5)) {{< br >}}{{< br >}} 6.9 Where are you from? ([MP3]({{< baseurl >}}/resources/6-9)) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} _Characters 6_ {{< br >}}{{< br >}} 6.0 Review  {{< br >}}6.1 Set 1, with notes  {{< br >}}6.2 Set 2, with notes  {{< br >}}6.3 Set 3, with notes  {{< br >}}6.4 Set 4, with notes  {{< br >}}6.5 A tale of filial piety  {{< br >}}6.6 Traditional characters (reading)  {{< br >}}6.7 Animal radicals  {{< br >}}6.8 On the street #6 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Lesson ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_char06)) {{< br >}}{{< br >}} Stroke Order ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_stroke06)) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} _Unit 7_ {{< br >}}{{< br >}} 7.1 Verb combinations (1)  {{< br >}}7.2 Connecting sentences  {{< br >}}7.3 Speaking languages  {{< br >}}7.4 Dialogue: Language abilities  {{< br >}}7.5 Dialogue: Tea and coffee  {{< br >}}7.6 Alone or with others; conveyances  {{< br >}}7.7 _Cái_ 'not until'  {{< br >}}7.8 Duration  {{< br >}}7.9 More _le_ patterns  {{< br >}}7.10 Weather  {{< br >}}7.11 Dialogue: Talking about weather  {{< br >}}7.12 Co-verbs (2)  {{< br >}}7.13 A letter home  {{< br >}}7.14 Pronunciation practice  {{< br >}}7.15 Highlights  {{< br >}}7.16 Rhymes and rhythms  {{< br >}}Appendix: Question words {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Chapter ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_unit07)) {{< br >}}{{< br >}} 7.2.4 If... ([MP3]({{< baseurl >}}/resources/7-2-4)) {{< br >}}{{< br >}} 7.4 Language abilities ([MP3]({{< baseurl >}}/resources/7-4)) {{< br >}}{{< br >}} 7.5 Tea and coffee ([MP3]({{< baseurl >}}/resources/7-5)) {{< br >}}{{< br >}} 7.9.2 Enduring states ([MP3]({{< baseurl >}}/resources/7-9-2)) {{< br >}}{{< br >}} 7.11 Talking about weather ([MP3]({{< baseurl >}}/resources/7-11)) {{< br >}}{{< br >}} 7.13 A letter home ([MP3]({{< baseurl >}}/resources/7-13)) {{< br >}}{{< br >}} 7.14 Pronunciation practice ([MP3]({{< baseurl >}}/resources/7-14)) {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+CONTENTS
+{{< thclose >}}
+{{< thopen >}}
+FILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+_Characters 4_
+
+4.0 Review  
+4.1 Set 1, with notes  
+4.2 Set 2, with notes  
+4.3 Set 3, with notes  
+4.4 Set 4, with notes  
+4.5 Traditional vs. simplified characters  
+4.6 名片 Míngpiàn  
+4.7 On the street #4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lesson ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_char04))
+
+Stroke Order ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_stroke04))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+_Unit 5_
+
+5.1 Tone contrasts  
+5.2 Or  
+5.3 At the beginning of class  
+5.4 Food (2)  
+5.5 Expanding the V + _de_ construction  
+5.6 Talking to children  
+5.7 Music and musicians  
+5.8 Verbs of cognition  
+5.9 Destination  
+5.10 Purpose  
+5.11 In the past  
+5.12 And  
+5.13 Sports and scores  
+5.14 Dialogue: Who won?  
+5.15 Pronunciation  
+5.16 Summary  
+5.17 Rhymes and rhythms
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapter ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_unit05))
+
+5.1 Tone contrasts ([MP3]({{< baseurl >}}/resources/5-1))
+
+5.4.1 Ordering in a restaurant ([MP3]({{< baseurl >}}/resources/5-4-1))
+
+5.6 Talking to children ([MP3]({{< baseurl >}}/resources/5-6))
+
+5.7.2 Musical preferences ([MP3]({{< baseurl >}}/resources/5-7-2))
+
+5.14 Who won? ([MP3]({{< baseurl >}}/resources/5-14))
+
+5.15 Pronunciation ([MP3]({{< baseurl >}}/resources/5-15))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+_Characters 5_
+
+5.0 Review  
+5.1 Set 1, with notes  
+5.2 Set 2, with notes  
+5.3 Set 3, with notes  
+5.4 Set 4, with notes  
+5.5 Traditional characters  
+5.6 Formal numbers  
+5.7 The five elements  
+5.8 On the street #5
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lesson ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_char05))
+
+Stroke Order ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_stroke05))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+_Unit 6_
+
+6.1 Opposites  
+6.2 Describing people  
+6.3 Verb + _guò_ 'have you ever...'  
+6.4 When, before, after  
+6.5 When?  
+6.6 Places of work  
+6.7 Directions  
+6.8 The _shì-de_ construction  
+6.9 Dialogue: Where are you from?  
+6.10 Calling Michael Jordan  
+6.11 Food (3)  
+6.12 Highlights  
+6.13 Rhymes and rhythms  
+Appendix: Chinese historical periods
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapter ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_unit06))
+
+6.3.5 Dialogues ([MP3]({{< baseurl >}}/resources/6-3-5))
+
+6.9 Where are you from? ([MP3]({{< baseurl >}}/resources/6-9))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+_Characters 6_
+
+6.0 Review  
+6.1 Set 1, with notes  
+6.2 Set 2, with notes  
+6.3 Set 3, with notes  
+6.4 Set 4, with notes  
+6.5 A tale of filial piety  
+6.6 Traditional characters (reading)  
+6.7 Animal radicals  
+6.8 On the street #6
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lesson ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_char06))
+
+Stroke Order ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_stroke06))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+_Unit 7_
+
+7.1 Verb combinations (1)  
+7.2 Connecting sentences  
+7.3 Speaking languages  
+7.4 Dialogue: Language abilities  
+7.5 Dialogue: Tea and coffee  
+7.6 Alone or with others; conveyances  
+7.7 _Cái_ 'not until'  
+7.8 Duration  
+7.9 More _le_ patterns  
+7.10 Weather  
+7.11 Dialogue: Talking about weather  
+7.12 Co-verbs (2)  
+7.13 A letter home  
+7.14 Pronunciation practice  
+7.15 Highlights  
+7.16 Rhymes and rhythms  
+Appendix: Question words
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapter ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_unit07))
+
+7.2.4 If... ([MP3]({{< baseurl >}}/resources/7-2-4))
+
+7.4 Language abilities ([MP3]({{< baseurl >}}/resources/7-4))
+
+7.5 Tea and coffee ([MP3]({{< baseurl >}}/resources/7-5))
+
+7.9.2 Enduring states ([MP3]({{< baseurl >}}/resources/7-9-2))
+
+7.11 Talking about weather ([MP3]({{< baseurl >}}/resources/7-11))
+
+7.13 A letter home ([MP3]({{< baseurl >}}/resources/7-13))
+
+7.14 Pronunciation practice ([MP3]({{< baseurl >}}/resources/7-14))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

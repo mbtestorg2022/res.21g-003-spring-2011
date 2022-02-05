@@ -10,8 +10,111 @@ Each section and recording in Part IV is available as an individual file, as wel
 
 Complete Part IV text and audio ([ZIP]({{< baseurl >}}/resources/part_iv))
 
-| CONTENTS | FILES |
-| --- | --- |
-|  {{< br >}}{{< br >}} _Unit 11_ {{< br >}}{{< br >}} 11.1 Constructions with _yī_ 'one'  {{< br >}}11.2 Places to see in Beijing  {{< br >}}11.3 Requests  {{< br >}}11.4 A geography lesson  {{< br >}}11.5 Following a recipe  {{< br >}}11.6 Xuéxí Hànzì  {{< br >}}11.7 Australia  {{< br >}}11.8 To Yángzhōu by way of Zhènjiāng  {{< br >}}11.9 Confrontation (1)  {{< br >}}11.10 Rhymes and rhythms {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Chapter ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_unit11)) {{< br >}}{{< br >}} 11.2 Places to see in Beijing ([MP3]({{< baseurl >}}/resources/11-2)) {{< br >}}{{< br >}} 11.4 A geography lesson ([MP3]({{< baseurl >}}/resources/11-4)) {{< br >}}{{< br >}} 11.6 Xuéxí Hànzì ([MP3]({{< baseurl >}}/resources/11-6)) {{< br >}}{{< br >}} 11.7 Australia ([MP3]({{< baseurl >}}/resources/11-7)) {{< br >}}{{< br >}} 11.8 To Yángzhōu by way of Zhènjiāng ([MP3]({{< baseurl >}}/resources/11-8)) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} _Unit 12_ {{< br >}}{{< br >}} 12.1 Taking photographs  {{< br >}}12.2 Méi Tàidé: the story  {{< br >}}12.3 The Tiān'ānmén incident  {{< br >}}12.4 Kinship  {{< br >}}12.5 Death  {{< br >}}12.6 The Chinese school system  {{< br >}}12.7 Life in Tiānjīn  {{< br >}}12.8 Adverbials of manner  {{< br >}}12.9 Confrontation (2)  {{< br >}}12.10 The North Wind and the Sun {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Chapter ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_unit12)) {{< br >}}{{< br >}} 12.2 Méi Tàidé: the story ([MP3]({{< baseurl >}}/resources/12-2)) {{< br >}}{{< br >}} 12.3 The Tiān'ānmén incident ([MP3]({{< baseurl >}}/resources/12-3)) {{< br >}}{{< br >}} 12.4 Kinship ([MP3]({{< baseurl >}}/resources/12-4)) {{< br >}}{{< br >}} 12.6 The Chinese school system ([MP3]({{< baseurl >}}/resources/12-6)) {{< br >}}{{< br >}} 12.7 Life in Tiānjīn ([MP3]({{< baseurl >}}/resources/12-7)) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} _The Chinese Menu (Zhōngguó càidān)_ {{< br >}}{{< br >}} Part I: Preliminaries  {{< br >}}Part II: Dialogue in a restaurant  {{< br >}}Part III: Sample menu items {{< br >}}{{< br >}}  | Chapter ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_menu))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+CONTENTS
+{{< thclose >}}
+{{< thopen >}}
+FILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+_Unit 11_
+
+11.1 Constructions with _yī_ 'one'  
+11.2 Places to see in Beijing  
+11.3 Requests  
+11.4 A geography lesson  
+11.5 Following a recipe  
+11.6 Xuéxí Hànzì  
+11.7 Australia  
+11.8 To Yángzhōu by way of Zhènjiāng  
+11.9 Confrontation (1)  
+11.10 Rhymes and rhythms
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapter ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_unit11))
+
+11.2 Places to see in Beijing ([MP3]({{< baseurl >}}/resources/11-2))
+
+11.4 A geography lesson ([MP3]({{< baseurl >}}/resources/11-4))
+
+11.6 Xuéxí Hànzì ([MP3]({{< baseurl >}}/resources/11-6))
+
+11.7 Australia ([MP3]({{< baseurl >}}/resources/11-7))
+
+11.8 To Yángzhōu by way of Zhènjiāng ([MP3]({{< baseurl >}}/resources/11-8))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+_Unit 12_
+
+12.1 Taking photographs  
+12.2 Méi Tàidé: the story  
+12.3 The Tiān'ānmén incident  
+12.4 Kinship  
+12.5 Death  
+12.6 The Chinese school system  
+12.7 Life in Tiānjīn  
+12.8 Adverbials of manner  
+12.9 Confrontation (2)  
+12.10 The North Wind and the Sun
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chapter ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_unit12))
+
+12.2 Méi Tàidé: the story ([MP3]({{< baseurl >}}/resources/12-2))
+
+12.3 The Tiān'ānmén incident ([MP3]({{< baseurl >}}/resources/12-3))
+
+12.4 Kinship ([MP3]({{< baseurl >}}/resources/12-4))
+
+12.6 The Chinese school system ([MP3]({{< baseurl >}}/resources/12-6))
+
+12.7 Life in Tiānjīn ([MP3]({{< baseurl >}}/resources/12-7))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+_The Chinese Menu (Zhōngguó càidān)_
+
+Part I: Preliminaries  
+Part II: Dialogue in a restaurant  
+Part III: Sample menu items
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter ([PDF]({{< baseurl >}}/resources/mitres_21g_003s11_menu))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
