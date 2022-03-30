@@ -16,14 +16,14 @@ The OCW course materials were extensively revised, and at times reordered, befor
 Front Matter
 ------------
 
-*   Acknowledgments and Preface ([PDF](/resources/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/online-textbook/MITRES_21G_003S11_ack_pfe.pdf))
-*   Table of Contents ([PDF](/resources/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/online-textbook/MITRES_21G_003S11_toc.pdf))
+*   Acknowledgments and Preface ({{% resource_link "b3dc5750-0a4c-ccbb-985f-5bbed48ccaf4" "PDF" %}})
+*   Table of Contents ({{% resource_link "2b54a654-efa4-99bd-a977-ef90772e9be7" "PDF" %}})
 
 Additional Resources
 --------------------
 
-*   Highlights of Character Lessons 1-7 ([PDF](/resources/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/online-textbook/MITRES_21G_003S11_char_hts.pdf))
-*   Calligraphy practice grid ([PDF](/resources/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/online-textbook/MITRES_21G_003S11_grid.pdf))
+*   Highlights of Character Lessons 1-7 ({{% resource_link "31d70b15-07af-0fda-7044-306b356df3d0" "PDF" %}})
+*   Calligraphy practice grid ({{% resource_link "360fd541-04f3-cf7e-bfc8-10fffb00f6d7" "PDF" %}})
 
 Chinese Sequence on OCW
 -----------------------

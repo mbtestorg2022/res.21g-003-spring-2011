@@ -4,6 +4,7 @@ description: This resource contains the information regarding character stroke o
   7.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/3501ead3310624dd24d33611923f94e1_MITRES_21G_003S11_stroke07.pdf
 file_type: application/pdf
+parent_uid: 5e882777-1f7c-52c8-5070-a26ba4701a68
 resourcetype: Document
 title: Character Stroke Order 7
 uid: 3501ead3-3106-24dd-24d3-3611923f94e1

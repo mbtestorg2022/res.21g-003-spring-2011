@@ -4,6 +4,7 @@ description: This resource contains the information regarding character stroke o
   6.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/res-21g-003-learning-chinese-a-foundation-course-in-mandarin-spring-2011/7dc831597d90a922f5a7b5f7e66dcbc0_MITRES_21G_003S11_stroke06.pdf
 file_type: application/pdf
+parent_uid: 7179d758-d0e8-355c-3a41-4a4159db68ff
 resourcetype: Document
 title: Character Stroke Order 6
 uid: 7dc83159-7d90-a922-f5a7-b5f7e66dcbc0
